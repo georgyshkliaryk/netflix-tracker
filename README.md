@@ -1,2 +1,2 @@
-###NetflixTracker
+### NetflixTracker
 App to track netflix series.  
