@@ -1,0 +1,31 @@
+.footer__container {
+    background-color: #221F1F;
+    color: white;
+    display: flex;
+    padding: 2rem 5rem;
+    justify-content: space-between;
+}
+.footer__container a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 15px;
+    margin-bottom: 0.3rem;
+}
+.footer__container a:hover {
+    color: grey;
+}
+.footer__container-title {
+    color: grey;
+    margin-top: 15px;
+}
+.footer__container-title span {
+    font-size: 20px;
+}
+.footer__container-links {
+    text-align: right;
+}
+.footer__container-links, .footer__container-fake {
+    width: 20rem;
+    margin-top: 15px;
+}

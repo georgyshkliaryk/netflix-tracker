@@ -1,7 +1,7 @@
 .header__container {
     background-color: #221F1F;
     display: flex;
-    color: #F5F5F1;
+    color: white;
     justify-content: space-between;
     padding: 2rem 5rem;
 }
@@ -15,7 +15,7 @@
     background-color: #413b3b;
     border: none;
     vertical-align: -10px;
-    color: #F5F5F1;
+    color: white;
 }
 .header__container-search img {
     width: 2rem;
